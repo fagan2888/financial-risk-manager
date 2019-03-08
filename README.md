@@ -4,7 +4,7 @@
 
 This project plays as a notebook when I study the [FRM handbook, sixth edition](https://www.wiley.com/en-us/Financial+Risk+Manager+Handbook%3A+FRM+Part+I+Part+II%2C+%2B+Test+Bank%2C+6th+Edition-p-9780470904015) from Wiley. 
 
-## Outline
+## Overview
 1. Part I
 - Foundations of Risk Management
 - Quantitative Analysis
