@@ -7,8 +7,19 @@ This project plays as a notebook when I study the [FRM handbook, sixth edition](
 ## Overview
 1. Part I
 - Foundations of Risk Management
+    - Risk Management
 - Quantitative Analysis
+    - Fundamentals of Probability
+    - Fundamentals of Statistics
+    - Monte Carlo Methods
+    - Modeling Risk Factors
 - Financial Markets and Products
+    - Bond Fundamentals
+    - Introduction to Derivatives
+    - Option Markets
+    - Fixed-Income Securities
+    - Fixed-Income Derivatives
+    - Equity, Currency, and Commodity Markets
 - Valuation and Risk Models
 2. Part II
 - Market Risk Measurement and Management
