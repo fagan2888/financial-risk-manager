@@ -21,6 +21,9 @@ This project plays as a notebook when I study the [FRM handbook, sixth edition](
     - Fixed-Income Derivatives
     - Equity, Currency, and Commodity Markets
 - Valuation and Risk Models
+    - Introduction to Risk Models
+    - Managing Linear Risk
+    - Nonlinear (Option) Risk Models
 2. Part II
 - Market Risk Measurement and Management
 - Credit Risk Measurement and Management
